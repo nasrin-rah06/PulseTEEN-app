@@ -6,16 +6,19 @@ Second Year College app-making project centered around adolescent well-being, in
 
 PulseTEEN is a Flutter-based wellness app built as a second-year CSE college project. It helps track adolescent wellness (mood, meals, sleep, water intake) and includes a caretaker dashboard for monitoring.
 
-## Tech Stack
+## Tech Stack and Developing Environment
 
 - Flutter / Dart
 - Firebase (Firestore, Authentication)
+- VSCode
+- Android Emulator
 
 ## Features
 
 - Mood tracking
 - Meal, sleep, and water logging
 - Caretaker dashboard for monitoring
+- Caretaker allowed to edit meal and sleep details
 - Interactive wellness games (memory game, petal game)
 
 ## Setup
@@ -28,6 +31,11 @@ This project uses Firebase (Firestore). Since Firebase config files are excluded
 4. Add your `google-services.json` to `android/app/`
 5. Run `flutter pub get`
 6. Run `flutter run`
+
+## Android Emulator
+
+This project uses Android Emulator.
+Setup Assistance: [Android Emulator](https://www.youtube.com/watch?v=fzJqHYjyA90)
 
 ## Getting Started with Flutter
 
