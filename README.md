@@ -4,7 +4,7 @@ Second Year College app-making project centered around adolescent well-being, in
 
 ## About
 
-PulseTEEN is a Flutter-based wellness app built as a second-year CSE college project. It helps track adolescent wellness (mood, meals, sleep, water intake) and includes a caretaker dashboard for monitoring. Created in 2026.
+PulseTEEN is a Flutter-based wellness app built as a second-year CSE college project. It helps track adolescent wellness (mood, meals, sleep, water intake) and includes a caretaker dashboard for monitoring. Created in 2026 (April-May).
 
 ## Tech Stack and Developing Environment
 
